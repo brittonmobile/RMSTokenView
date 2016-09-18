@@ -1,0 +1,19 @@
+//
+//  RMSTokenView iOS.h
+//  RMSTokenView iOS
+//
+//  Created by Ryan on 9/18/16.
+//  Copyright © 2016 RoleModel Software. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+//! Project version number for RMSTokenView iOS.
+FOUNDATION_EXPORT double RMSTokenView_iOSVersionNumber;
+
+//! Project version string for RMSTokenView iOS.
+FOUNDATION_EXPORT const unsigned char RMSTokenView_iOSVersionString[];
+
+// In this header, you should import all the public headers of your framework using statements like #import <RMSTokenView_iOS/PublicHeader.h>
+
+
