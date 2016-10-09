@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9441FD621D8EF5A7005A3F0C"
-               BuildableName = "RMSTokenView iOS.framework"
+               BuildableName = "RMSTokenView.framework"
                BlueprintName = "RMSTokenView iOS"
                ReferencedContainer = "container:RMSTokenView.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9441FD621D8EF5A7005A3F0C"
-            BuildableName = "RMSTokenView iOS.framework"
+            BuildableName = "RMSTokenView.framework"
             BlueprintName = "RMSTokenView iOS"
             ReferencedContainer = "container:RMSTokenView.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9441FD621D8EF5A7005A3F0C"
-            BuildableName = "RMSTokenView iOS.framework"
+            BuildableName = "RMSTokenView.framework"
             BlueprintName = "RMSTokenView iOS"
             ReferencedContainer = "container:RMSTokenView.xcodeproj">
          </BuildableReference>
